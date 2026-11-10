@@ -1,281 +1,5 @@
 [
   {
-    "question_text": "সন্ধি-বিচ্ছেদ করুন: অভ্যুত্থান",
-    "options": [],
-    "correct_option": "অভি + উত্থান",
-    "explanation": ""
-  },
-  {
-    "question_text": "সন্ধি-বিচ্ছেদ করুন: দর্শনীয়",
-    "options": [],
-    "correct_option": "দৃশ্ + অনীয়",
-    "explanation": ""
-  },
-  {
-    "question_text": "সন্ধি-বিচ্ছেদ করুন: সঙ্কল্প",
-    "options": [],
-    "correct_option": "সম্ + কল্প",
-    "explanation": ""
-  },
-  {
-    "question_text": "সন্ধি-বিচ্ছেদ করুন: মৃত",
-    "options": [],
-    "correct_option": "মৃচ্ + ত",
-    "explanation": ""
-  },
-  {
-    "question_text": "সন্ধি-বিচ্ছেদ করুন: ঐতিহ্য",
-    "options": [],
-    "correct_option": "ইতিহ + য",
-    "explanation": ""
-  },
-  {
-    "question_text": "সন্ধি-বিচ্ছেদ করুন: মিথ্যা",
-    "options": [],
-    "correct_option": "মিছ + ইয়া",
-    "explanation": ""
-  },
-  {
-    "question_text": "কারক ও বিভক্তি নির্ণয় করুন: 'অর্থই' অনর্থের মূল।",
-    "options": [],
-    "correct_option": "কর্তৃকারকে শূন্য বিভক্তি",
-    "explanation": ""
-  },
-  {
-    "question_text": "কারক ও বিভক্তি নির্ণয় করুন: 'মাতাপিতার' সেবা কর।",
-    "options": [],
-    "correct_option": "কর্মকারকে ৬ষ্ঠী বিভক্তি",
-    "explanation": ""
-  },
-  {
-    "question_text": "কারক ও বিভক্তি নির্ণয় করুন: বিকেল 'চারটায়' অফিস ছুটি হয়।",
-    "options": [],
-    "correct_option": "অধিকরণে ৭মী বিভক্তি",
-    "explanation": ""
-  },
-  {
-    "question_text": "কারক ও বিভক্তি নির্ণয় করুন: 'তার' দেখা পাওয়া দুষ্কর।",
-    "options": [],
-    "correct_option": "কর্মকারকে ৬ষ্ঠী বিভক্তি",
-    "explanation": ""
-  },
-  {
-    "question_text": "কারক ও বিভক্তি নির্ণয় করুন: লোকটি 'কানে' খাটো।",
-    "options": [],
-    "correct_option": "করণ কারকে ৭মী বিভক্তি",
-    "explanation": ""
-  },
-  {
-    "question_text": "কারক ও বিভক্তি নির্ণয় করুন: 'দশে' মিলে করি কাজ।",
-    "options": [],
-    "correct_option": "কর্তৃকারকে ৭মী",
-    "explanation": ""
-  },
-  {
-    "question_text": "এককথায় প্রকাশ করুন: অগভীর সতর্ক নিদ্রা",
-    "options": [],
-    "correct_option": "বকনিদ্রা",
-    "explanation": ""
-  },
-  {
-    "question_text": "এককথায় প্রকাশ করুন: কথায় বর্ণনা করা যায় না যা",
-    "options": [],
-    "correct_option": "অবর্ণনীয়",
-    "explanation": ""
-  },
-  {
-    "question_text": "এককথায় প্রকাশ করুন: অর্থহীন উক্তি",
-    "options": [],
-    "correct_option": "প্রলাপ",
-    "explanation": ""
-  },
-  {
-    "question_text": "এককথায় প্রকাশ করুন: দিনের প্রথম ভাগ",
-    "options": [],
-    "correct_option": "পূর্বাহ্ণ",
-    "explanation": ""
-  },
-  {
-    "question_text": "এককথায় প্রকাশ করুন: পা থেকে মাথা পর্যন্ত",
-    "options": [],
-    "correct_option": "আপাদমস্তক",
-    "explanation": ""
-  },
-  {
-    "question_text": "এককথায় প্রকাশ করুন: বেশি কথা বলে যে",
-    "options": [],
-    "correct_option": "বাচাল",
-    "explanation": ""
-  },
-  {
-    "question_text": "শুদ্ধ বানান লিখুন: অধীনস্থ",
-    "options": [],
-    "correct_option": "অধীন",
-    "explanation": ""
-  },
-  {
-    "question_text": "শুদ্ধ বানান লিখুন: এতদ্বারা",
-    "options": [],
-    "correct_option": "এতদ্দ্বারা",
-    "explanation": ""
-  },
-  {
-    "question_text": "শুদ্ধ বানান লিখুন: দুর্বিসহ",
-    "options": [],
-    "correct_option": "দুর্বিষহ",
-    "explanation": ""
-  },
-  {
-    "question_text": "শুদ্ধ বানান লিখুন: ভাসন",
-    "options": [],
-    "correct_option": "ভাষণ",
-    "explanation": ""
-  },
-  {
-    "question_text": "শুদ্ধ বানান লিখুন: সৌজন্যতা",
-    "options": [],
-    "correct_option": "সৌজন্য",
-    "explanation": ""
-  },
-  {
-    "question_text": "শুদ্ধ বানান লিখুন: ব্যাতীত",
-    "options": [],
-    "correct_option": "ব্যতীত",
-    "explanation": ""
-  },
-  {
-    "question_text": "বিপরীত শব্দ লিখুন: বন্ধুর",
-    "options": [],
-    "correct_option": "মসৃণ",
-    "explanation": ""
-  },
-  {
-    "question_text": "বিপরীত শব্দ লিখুন: আত্মীয়",
-    "options": [],
-    "correct_option": "অনাত্মীয়",
-    "explanation": ""
-  },
-  {
-    "question_text": "বিপরীত শব্দ লিখুন: সহোদর",
-    "options": [],
-    "correct_option": "বৈমাত্রেয়",
-    "explanation": ""
-  },
-  {
-    "question_text": "বিপরীত শব্দ লিখুন: বিজ্ঞ",
-    "options": [],
-    "correct_option": "অজ্ঞ",
-    "explanation": ""
-  },
-  {
-    "question_text": "বিপরীত শব্দ লিখুন: অগ্র",
-    "options": [],
-    "correct_option": "পশ্চাৎ",
-    "explanation": ""
-  },
-  {
-    "question_text": "বিপরীত শব্দ লিখুন: কঠোর",
-    "options": [],
-    "correct_option": "কোমল",
-    "explanation": ""
-  },
-  {
-    "question_text": "Fill in the gap: Metre is ... unit of length.",
-    "options": [],
-    "correct_option": "a",
-    "explanation": ""
-  },
-  {
-    "question_text": "Fill in the gap: He spends ... hour daily.",
-    "options": [],
-    "correct_option": "an",
-    "explanation": ""
-  },
-  {
-    "question_text": "Fill in the gap: Harun can play ... flute.",
-    "options": [],
-    "correct_option": "the",
-    "explanation": ""
-  },
-  {
-    "question_text": "Fill in the gap: Never tell ... lie.",
-    "options": [],
-    "correct_option": "a",
-    "explanation": ""
-  },
-  {
-    "question_text": "Fill in the gap: He has no ABC ... law.",
-    "options": [],
-    "correct_option": "of",
-    "explanation": ""
-  },
-  {
-    "question_text": "Fill in the gap: He died ... hunger.",
-    "options": [],
-    "correct_option": "of",
-    "explanation": ""
-  },
-  {
-    "question_text": "Fill in the gap: God is good ... me.",
-    "options": [],
-    "correct_option": "to",
-    "explanation": ""
-  },
-  {
-    "question_text": "Fill in the gap: I shall do it ... pleasure.",
-    "options": [],
-    "correct_option": "with",
-    "explanation": ""
-  },
-  {
-    "question_text": "Correct the spelling: Voise",
-    "options": [],
-    "correct_option": "Voice",
-    "explanation": ""
-  },
-  {
-    "question_text": "Correct the spelling: Busines",
-    "options": [],
-    "correct_option": "Business",
-    "explanation": ""
-  },
-  {
-    "question_text": "Correct the spelling: Neumonia",
-    "options": [],
-    "correct_option": "Pneumonia",
-    "explanation": ""
-  },
-  {
-    "question_text": "Correct the spelling: Receive",
-    "options": [],
-    "correct_option": "Receive",
-    "explanation": ""
-  },
-  {
-    "question_text": "Correct the spelling: Belief",
-    "options": [],
-    "correct_option": "Belief",
-    "explanation": ""
-  },
-  {
-    "question_text": "Correct the spelling: Flowar",
-    "options": [],
-    "correct_option": "Flower",
-    "explanation": ""
-  },
-  {
-    "question_text": "Transform the sentence as directed: Tell me his address. (Complex)",
-    "options": [],
-    "correct_option": "Tell me where his address is",
-    "explanation": ""
-  },
-  {
-    "question_text": "Transform the sentence as directed: He said, \"Friends, goodbye.\" (Indirect)",
-    "options": [],
-    "correct_option": "He bade his friends goodbye",
-    "explanation": ""
-  },
-  {
     "question_text": "১. 'কড়চা' শব্দের সমার্থক শব্দ?",
     "options": [
       "ক. রোজনামচা",
@@ -339,17 +63,6 @@
       "ঘ. দিগের"
     ],
     "correct_option": "খ",
-    "explanation": ""
-  },
-  {
-    "question_text": "৭. প্রত্যয়ান্ত বহুব্রীহি সমাসের উদাহরণ কোনটি?",
-    "options": [
-      "ক. তেপান্তর",
-      "খ. লেখালেখি",
-      "গ. জীবন্মৃত",
-      "ঘ. দোমনা"
-    ],
-    "correct_option": "ঘ",
     "explanation": ""
   },
   {
@@ -629,12 +342,12 @@
   {
     "question_text": "৩৪. What is the feminine gender of the word 'proprietor'?",
     "options": [
-      "ক. proprietriy",
+      "ক. proprietrix",
       "খ. proprietoree",
       "গ. proprietory",
       "ঘ. proprietorship"
     ],
-    "correct_option": "Proprietrix"
+    "correct_option": "ক"
   },
   {
     "question_text": "৩৫. When you think someone is 'intropective', you think she/he is ...",
@@ -727,7 +440,7 @@
     "correct_option": "ঘ"
   },
   {
-    "question_text": "৪৪. The train is moving fast enough. The underlined phrase is:",
+    "question_text": "৪৪. The train is moving 'fast enough'. The marked phrase is:",
     "options": [
       "ক. adjective phrase",
       "খ. verb phrase",
@@ -6797,101 +6510,6 @@
     "correct_option": "খ"
   },
   {
-    "question_text": "Fill in the gaps with appropriate words: ১. Metre is ...... unit of length.",
-    "options": [],
-    "correct_option": "a"
-  },
-  {
-    "question_text": "Fill in the gaps with appropriate words: ২. He spends ...... hour daily.",
-    "options": [],
-    "correct_option": "an"
-  },
-  {
-    "question_text": "Fill in the gaps with appropriate words: ৩. Harun can play ...... flute.",
-    "options": [],
-    "correct_option": "the"
-  },
-  {
-    "question_text": "iii. ট্রেনটি উত্তরা যাবে।",
-    "options": [],
-    "correct_option": "The train is bound for Uttara"
-  },
-  {
-    "question_text": "iv. হাঁটা স্বাস্থ্যের জন্য উপকারী।",
-    "options": [],
-    "correct_option": "Walking is good for health."
-  },
-  {
-    "question_text": "Make sentence: For good (চিরতরে)",
-    "options": [],
-    "correct_option": "He has left the village for good."
-  },
-  {
-    "question_text": "Make sentence: Null and Void (বাতিল)",
-    "options": [],
-    "correct_option": "The law has been null and void now."
-  },
-  {
-    "question_text": "Make sentence: At a glance (এক নজরে)",
-    "options": [],
-    "correct_option": "He could tell at glance that something was wrong."
-  },
-  {
-    "question_text": "Make sentence: Come to light (প্রকাশ হওয়া)",
-    "options": [],
-    "correct_option": "The truth finally came to light."
-  },
-  {
-    "question_text": "১. বিশ্বের সবচেয়ে বড় দ্বীপের নাম কী?",
-    "options": [],
-    "correct_option": "গ্রিনল্যান্ড।"
-  },
-  {
-    "question_text": "২. ঢাকার নবাবদের আবাসস্থল হিসেবে পরিচিত ঐতিহাসিক প্রাসাদটির নাম কী?",
-    "options": [],
-    "correct_option": "আহসান মঞ্জিল।"
-  },
-  {
-    "question_text": "৩. ওমান এবং পারস্য উপসাগরের সংযোগকারী প্রণালির নাম",
-    "options": [],
-    "correct_option": "হরমুজ প্রণালি।"
-  },
-  {
-    "question_text": "৪. কম্পিউটারের ভাষায় (বাইনারি পদ্ধতিতে) ব্যবহৃত অঙ্ক দুটি",
-    "options": [],
-    "correct_option": "০ এবং ১"
-  },
-  {
-    "question_text": "৫. চট্টগ্রাম সমুদ্রবন্দর কোন নদীর তীরে অবস্থিত?",
-    "options": [],
-    "correct_option": "কর্ণফুলী নদী।"
-  },
-  {
-    "question_text": "পূর্ণরূপ লিখুনঃ BIOS",
-    "options": [],
-    "correct_option": "Basic Input/ Output System."
-  },
-  {
-    "question_text": "পূর্ণরূপ লিখুনঃ TIN",
-    "options": [],
-    "correct_option": "Taxpayer Identification Number."
-  },
-  {
-    "question_text": "পূর্ণরূপ লিখুনঃ LPG",
-    "options": [],
-    "correct_option": "Liquefied Petroleum Gas."
-  },
-  {
-    "question_text": "পূর্ণরূপ লিখুনঃ SDG",
-    "options": [],
-    "correct_option": "Sustainable Development Goals."
-  },
-  {
-    "question_text": "পূর্ণরূপ লিখুনঃ ADP",
-    "options": [],
-    "correct_option": "Annual Development Programme."
-  },
-  {
     "question_text": "১. সন্ধি-বিচ্ছেদ করুন: অভ্যুত্থান",
     "options": [
       "ক. অভি + উত্থান",
@@ -6946,7 +6564,7 @@
     "options": [
       "ক. মিথ+য়া",
       "খ. মিথ+আ",
-      "গ. মিথ+ইয়া",
+      "গ. মিথ্+ইয়া",
       "ঘ. মিথ্যা+ইয়া"
     ],
     "correct_option": "গ"
@@ -7072,148 +6690,823 @@
     "correct_option": "খ"
   },
   {
-    "question_text": "৪. Never tell ...... lie.",
-    "options": [],
-    "correct_option": "a"
+    "question_text": "১৭. ‘He calls me by my nickname.’ Change the sentence into passive.",
+    "options": [
+      "ক. My nickname is called by him.",
+      "খ. I am called by him by my nickname.",
+      "গ. I call his nickname.",
+      "ঘ. I am called by my nickname."
+    ],
+    "correct_option": "খ"
   },
   {
-    "question_text": "৫. He has no ABC ...... law.",
-    "options": [],
-    "correct_option": "of"
+    "question_text": "১৮. Which of the following is a verb?",
+    "options": [
+      "ক. Submit",
+      "খ. Carefully",
+      "গ. Publication",
+      "ঘ. Postponement"
+    ],
+    "correct_option": "ক"
   },
   {
-    "question_text": "৬. He died ...... hunger.",
-    "options": [],
-    "correct_option": "of"
+    "question_text": "১৯. How long ... English?",
+    "options": [
+      "ক. do you learn",
+      "খ. have you been learning",
+      "গ. are you learning",
+      "ঘ. you learn"
+    ],
+    "correct_option": "খ"
   },
   {
-    "question_text": "৭. God is good ...... me.",
-    "options": [],
-    "correct_option": "to"
+    "question_text": "২০. Mr. Rahim is the ... of the brother.",
+    "options": [
+      "ক. elder",
+      "খ. old",
+      "গ. oldest",
+      "ঘ. eldest"
+    ],
+    "correct_option": "ঘ"
   },
   {
-    "question_text": "৮. I shall do it ...... pleasure.",
-    "options": [],
-    "correct_option": "with"
+    "question_text": "২১. ৩, ৬, ১১, ১৮, ২৭ এর পরের সংখ্যাটি কত?",
+    "options": [
+      "ক. ৩৬",
+      "খ. ৩৮",
+      "গ. ৪৫",
+      "ঘ. ৩৪"
+    ],
+    "correct_option": "খ"
   },
   {
-    "question_text": "Correct the spelling: i. Voise -",
-    "options": [],
-    "correct_option": "Voice"
+    "question_text": "২২. ০.১ × ০.০১ × ০.০০১ = ?",
+    "options": [
+      "ক. ১.০০১",
+      "খ. ০.১০০০১",
+      "গ. ০.০০১",
+      "ঘ. ০.০০০০০১"
+    ],
+    "correct_option": "ঘ"
   },
   {
-    "question_text": "Correct the spelling: ii. Busines",
-    "options": [],
-    "correct_option": "Business"
+    "question_text": "২৩. ৩% করসহ একটি পণ্যের মূল্য ৮২.৪০ টাকা হলে পণ্যটির করবিহীন মূল্য কত টাকা?",
+    "options": [
+      "ক. ৭৭",
+      "খ. ৮৫",
+      "গ. ৯৪",
+      "ঘ. ৮০"
+    ],
+    "correct_option": "ঘ"
   },
   {
-    "question_text": "Correct the spelling: iii. Neumonia -",
-    "options": [],
-    "correct_option": "Pneumonia"
+    "question_text": "২৪. ভাজক ৫, ভাগফল ৪ এবং ভাগশেষ ১ হলে ভাজ্য কত হবে?",
+    "options": [
+      "ক. ২২",
+      "খ. ১৯",
+      "গ. ২১",
+      "ঘ. কোনোটিই নয়"
+    ],
+    "correct_option": "গ"
   },
   {
-    "question_text": "Correct the spelling: iv. Receive -",
-    "options": [],
-    "correct_option": "Receive"
+    "question_text": "২৫. (x + 5)(x - 9) - 15 এর উৎপাদক কোনটি?",
+    "options": [
+      "ক. x + 10",
+      "খ. x - 8",
+      "গ. x - 10",
+      "ঘ. x + 8"
+    ],
+    "correct_option": "গ"
   },
   {
-    "question_text": "Correct the spelling: v. Belief -",
-    "options": [],
-    "correct_option": "Belief"
+    "question_text": "২৬. একটি বাক্সের দৈর্ঘ্য ২ মিটার, প্রস্থ ১.৫ মিটার এবং উচ্চতা ১ মিটার। বাক্সটির আয়তন কত?",
+    "options": [
+      "ক. ২ ঘনমিটার",
+      "খ. ৩ ঘনমিটার",
+      "গ. ৪ ঘনমিটার",
+      "ঘ. ২.৫ ঘনমিটার"
+    ],
+    "correct_option": "খ"
   },
   {
-    "question_text": "Correct the spelling: vi. Flowar -",
-    "options": [],
-    "correct_option": "Flower"
+    "question_text": "২৭. 2x² + x - 15 এর উৎপাদক কোনটি?",
+    "options": [
+      "ক. (x + 3)(2x - 5)",
+      "খ. (x - 3)(2x - 5)",
+      "গ. (x - 3)(2x + 5)",
+      "ঘ. কোনোটিই নয়"
+    ],
+    "correct_option": "ক"
   },
   {
-    "question_text": "Transform the sentence as directed: i. Tell me his address. (Complex)",
-    "options": [],
-    "correct_option": "Tell me where his address is."
+    "question_text": "২৮. একটি সমকোণী ত্রিভুজের ২টি কোণের সমষ্টি ১৬৫° হলে অপর কোণটির মান কত?",
+    "options": [
+      "ক. ৩০°",
+      "খ. ৩৫°",
+      "গ. ১৫°",
+      "ঘ. ৪৫°"
+    ],
+    "correct_option": "গ"
   },
   {
-    "question_text": "Transform the sentence as directed: ii. He said, “Friends, goodbye.“ (Indirect)",
-    "options": [],
-    "correct_option": "He bade his friends goodbye."
+    "question_text": "২৯. একটি কাজ ১০ জনে ৬ দিনে করতে পারে। ৩ জনে কতদিনে ঐ কাজটি শেষ করতে পারবে?",
+    "options": [
+      "ক. ১৩",
+      "খ. ১৫",
+      "গ. ২০",
+      "ঘ. ২৫"
+    ],
+    "correct_option": "গ"
   },
   {
-    "question_text": "Transform the sentence as directed: iii. The flower is very fine. (Exclamatory)",
-    "options": [],
-    "correct_option": "How fine the flower is!"
+    "question_text": "৩০. ১ কাঠা = ১.৬৫ শতাংশ হলে, ২০ কাঠায় কত শতাংশ হবে?",
+    "options": [
+      "ক. ৩০",
+      "খ. ৩১",
+      "গ. ৩২",
+      "ঘ. ৩৩"
+    ],
+    "correct_option": "ঘ"
   },
   {
-    "question_text": "Transform the sentence as directed: iv. I know him. (Passive)",
-    "options": [],
-    "correct_option": "He is known to me"
+    "question_text": "৩১. x + 1/x = √3 হলে x³ + 1/x³ এর মান কত?",
+    "options": [
+      "ক. 1",
+      "খ. 3",
+      "গ. 4",
+      "ঘ. 0"
+    ],
+    "correct_option": "ঘ"
   },
   {
-    "question_text": "Translate into English: i. আমি আমার দেশকে ভালোবাসি।",
-    "options": [],
-    "correct_option": "I love my country."
+    "question_text": "৩২. ৮, ১৩, ২১, ৩৪, ... ধারার পরবর্তী সংখ্যা কত?",
+    "options": [
+      "ক. ৫৫",
+      "খ. ৪৩",
+      "গ. ৫৩",
+      "ঘ. ৫২"
+    ],
+    "correct_option": "ক"
   },
   {
-    "question_text": "Translate into English: ii. তিনি আর বেঁচে নেই।",
-    "options": [],
-    "correct_option": "He / she is no more."
+    "question_text": "৩৩. ১৫, ২০, ২৫ এর ল.সা.গু কত হবে?",
+    "options": [
+      "ক. ১০০",
+      "খ. ২০০",
+      "গ. ২৫০",
+      "ঘ. ৩০০"
+    ],
+    "correct_option": "ঘ"
   },
   {
-    "question_text": "মক্কা চুক্তি কত তারিখে স্বাক্ষরিত হয়?",
-    "options": [],
-    "correct_option": "৭ আগস্ট ২০২৬"
+    "question_text": "৩৪. একটি ত্রিভুজাকার ভূমির দৈর্ঘ্য ৬ মিটার ও উচ্চতা ৪ মিটার। ত্রিভুজটির ক্ষেত্রফল কত?",
+    "options": [
+      "ক. ১২ বর্গমিটার",
+      "খ. ৬ বর্গমিটার",
+      "গ. ১২ মিটার",
+      "ঘ. ৬ ঘনমিটার"
+    ],
+    "correct_option": "ক"
   },
   {
-    "question_text": "বাংলার অগ্রদূত কী ধরনের জাহাজ?",
-    "options": [],
-    "correct_option": "ভোজ্য তেলবাহী জাহাজ"
+    "question_text": "১. She succeeded ... her good work.",
+    "options": [
+      "ক. because",
+      "খ. since",
+      "গ. because of",
+      "ঘ. as"
+    ],
+    "correct_option": "গ"
   },
   {
-    "question_text": "খারগ দ্বীপ কোন দেশের অবস্থিত?",
-    "options": [],
-    "correct_option": "ইরান"
+    "question_text": "২. The train is running ... forty miles an hour.",
+    "options": [
+      "ক. on",
+      "খ. to",
+      "গ. at",
+      "ঘ. for"
+    ],
+    "correct_option": "গ"
   },
   {
-    "question_text": "কম্পিউটারে প্রাইমারি গেট কয়টি ও কী কী?",
-    "options": [],
-    "correct_option": "৩টি। যথা: AND, OR এবং NOT গেট।"
+    "question_text": "৩. The word ‘vital’ is a/an-",
+    "options": [
+      "ক. noun",
+      "খ. adverb",
+      "গ. adjective",
+      "ঘ. verb"
+    ],
+    "correct_option": "গ"
   },
   {
-    "question_text": "সরকার প্রদত্ত ইপিআই তালিকায় যুক্ত টিকা কোনটি?",
-    "options": [],
-    "correct_option": "টিসিভি (TCV-Typhoid Conjugate Vaccine)"
+    "question_text": "৪. Which work is similar to ‘appal’?",
+    "options": [
+      "ক. deceive",
+      "খ. confuse",
+      "গ. dismay",
+      "ঘ. solicit"
+    ],
+    "correct_option": "গ"
   },
   {
-    "question_text": "ঢাকা বিশ্ববিদ্যালয়ের প্রথম বাঙালি উপাচার্য কে ছিলেন?",
-    "options": [],
-    "correct_option": "স্যার এ এফ রহমান"
+    "question_text": "৫. Hospitals ... the sick.",
+    "options": [
+      "ক. operate",
+      "খ. treat",
+      "গ. admit",
+      "ঘ. nurse"
+    ],
+    "correct_option": "খ"
   },
   {
-    "question_text": "নাড়ির স্পন্দন মাপা হয় কোথায়?",
-    "options": [],
-    "correct_option": "ধমনীতে"
+    "question_text": "৬. Which word is closest in meaning to ‘Franchise’?",
+    "options": [
+      "ক. utility",
+      "খ. frankness",
+      "গ. privilege",
+      "ঘ. superficial"
+    ],
+    "correct_option": "গ"
   },
   {
-    "question_text": "পদ্মা ও যমুনা নদী কোথায় মিলিত হয়?",
-    "options": [],
-    "correct_option": "গোয়ালন্দ (দৌলতদিয়া, রাজবাড়ী)"
+    "question_text": "৭. The sun went down. The underlined word is used here as a/an-",
+    "options": [
+      "ক. preposition",
+      "খ. adverb",
+      "গ. noun",
+      "ঘ. conjunction"
+    ],
+    "correct_option": "খ"
   },
   {
-    "question_text": "'সকল শিক্ষকগণ আজ উপস্থিত'- বাক্যটি কোন দোষে দুষ্ট?",
-    "options": [],
-    "correct_option": "বাহুল্য দোষ"
+    "question_text": "৮. Which one of the following words is in singular form?",
+    "options": [
+      "ক. Agenda",
+      "খ. Oases",
+      "গ. Radius",
+      "ঘ. Formulae"
+    ],
+    "correct_option": "গ"
   },
   {
-    "question_text": "OIC মহাসচিবের নাম কী?",
-    "options": [],
-    "correct_option": "ইসমাইল উলদ শেখ আহমেদ"
+    "question_text": "৯. Teacher said, “The earth ... round the sun”.",
+    "options": [
+      "ক. moves",
+      "খ. moved",
+      "গ. has moved",
+      "ঘ. will be moving"
+    ],
+    "correct_option": "ক"
   },
   {
-    "question_text": "২টি সার্চ ইঞ্জিনের নাম লিখুন।",
-    "options": [],
-    "correct_option": "গুগল, ইয়াহু"
+    "question_text": "১০. N.B. stands for-",
+    "options": [
+      "ক. Note bene",
+      "খ. Nota bene",
+      "গ. No bar",
+      "ঘ. No Bern"
+    ],
+    "correct_option": "খ"
   },
   {
-    "question_text": "প্রাচীন পুণ্ড্রনগর কোথায় অবস্থিত ও এর বর্তমান নাম কী?",
-    "options": [],
-    "correct_option": "বগুড়া জেলায়। বর্তমান নাম- মহাস্থানগড়।"
+    "question_text": "১১. To keep one’s head-",
+    "options": [
+      "ক. to save oneself",
+      "খ. to be self respectful",
+      "গ. to keep calm",
+      "ঘ. none of these"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "১২. He watched the boat ... down the river.",
+    "options": [
+      "ক. to float",
+      "খ. floating",
+      "গ. was floating",
+      "ঘ. had floated"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "১৩. Jewel has been ill ... two months.",
+    "options": [
+      "ক. since",
+      "খ. about",
+      "গ. in",
+      "ঘ. for"
+    ],
+    "correct_option": "ঘ"
+  },
+  {
+    "question_text": "১৪. Synonym of Handsome is-",
+    "options": [
+      "ক. polite",
+      "খ. noble",
+      "গ. gentle",
+      "ঘ. good looking"
+    ],
+    "correct_option": "ঘ"
+  },
+  {
+    "question_text": "১৫. I have to ... to the finish line and back.",
+    "options": [
+      "ক. run",
+      "খ. run away",
+      "গ. get away",
+      "ঘ. gate thorugh"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "১৬. Find out the Adjective of the word ‘season’:",
+    "options": [
+      "ক. seasonally",
+      "খ. seasoning",
+      "গ. seasonable",
+      "ঘ. seasoned"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৩৫. সমকোণী ত্রিভুজের অতিভুজ সংলগ্ন কোণ দুটির প্রত্যেকটি কী কোণ?",
+    "options": [
+      "ক) সমকোণ",
+      "খ) স্থূলকোণ",
+      "গ) সরলকোণ",
+      "ঘ) সূক্ষ্মকোণ"
+    ],
+    "correct_option": "ঘ"
+  },
+  {
+    "question_text": "৩৬. a + b = 8 এবং ab = 15 হলে a² + b² এর মান কত?",
+    "options": [
+      "ক) 36",
+      "খ) 32",
+      "গ) 34",
+      "ঘ) 42"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৩৭. 9a³b²c², 12a³bc ও 15ab³c³ এর গ.সা.গু কত?",
+    "options": [
+      "ক) 3a³bc",
+      "খ) 3a³b²c²",
+      "গ) 3abc²",
+      "ঘ) 3abc"
+    ],
+    "correct_option": "ঘ"
+  },
+  {
+    "question_text": "৩৮. ২০ মিটার ৮০ মিটারের কত শতাংশ?",
+    "options": [
+      "ক) ১৫%",
+      "খ) ২০%",
+      "গ) ২৫%",
+      "ঘ) ৩০%"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৩৯. শতকরা বার্ষিক কত মুনাফায় ৩,০০০ টাকার ৫ বছরের মুনাফা ১,৫০০ টাকা হবে?",
+    "options": [
+      "ক) ১০%",
+      "খ) ১৫%",
+      "গ) ২০%",
+      "ঘ) ৫%"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৪০. ১ কুইন্টাল = কত কিলোগ্রাম?",
+    "options": [
+      "ক) ১০০",
+      "খ) ১,০০০",
+      "গ) ১০,০০০",
+      "ঘ) কোনোটিই নয়"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৪১. VLSI-এর পূর্ণরূপ-",
+    "options": [
+      "ক) Very Large System Intergration",
+      "খ) Very Large Scale Integration",
+      "গ) Very Long System Integration",
+      "ঘ) কোনোটিই নয়"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৪২. নিচের কোনটি কম্পিউটারের ইনপুট ডিভাইস নয়?",
+    "options": [
+      "ক) মাউস",
+      "খ) কী-বোর্ড",
+      "গ) প্রিন্টার",
+      "ঘ) স্ক্যানার"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৪৩. ফেসবুকের সদর দপ্তর-",
+    "options": [
+      "ক) সিয়াটল",
+      "খ) ক্যালিফোর্নিয়া",
+      "গ) ওয়াশিংটন",
+      "ঘ) নিউইয়র্ক"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৪৪. মূল মধ্যরেখার মান কত?",
+    "options": [
+      "ক) ৮০°",
+      "খ) ১৮০°",
+      "গ) ০°",
+      "ঘ) ৩০°"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৪৫. ‘দোলাই’ কোন নদীর পূর্বনাম?",
+    "options": [
+      "ক) বুড়িগঙ্গা",
+      "খ) যমুনা",
+      "গ) পদ্মা",
+      "ঘ) সুরমা"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৪৬. ‘গোবি মরুভূমি’ কোথায় অবস্থিত?",
+    "options": [
+      "ক) উত্তর আফ্রিকা",
+      "খ) দক্ষিণ আফ্রিকা",
+      "গ) দক্ষিণ আমেরিকা",
+      "ঘ) চীন"
+    ],
+    "correct_option": "ঘ"
+  },
+  {
+    "question_text": "৪৭. ‘নিষিদ্ধ দেশ’ বলা হয়-",
+    "options": [
+      "ক) ইসরাইল",
+      "খ) তিব্বত",
+      "গ) কিউবা",
+      "ঘ) আফগানিস্তান"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৪৮. ইউরিয়া সারের কাঁচামাল কী?",
+    "options": [
+      "ক) প্রাকৃতিক গ্যাস",
+      "খ) চুনাপাথর",
+      "গ) মিথেন গ্যাস",
+      "ঘ) ইলমেনাইট"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৪৯. বাংলাদেশের কোন স্থানে সবচেয়ে কম বৃষ্টিপাত হয়?",
+    "options": [
+      "ক) লালখান",
+      "খ) লালপুর",
+      "গ) শ্রীমঙ্গল",
+      "ঘ) মাধবকুণ্ড"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৫০. বাংলার সর্বপ্রাচীন জনপদের নাম কী?",
+    "options": [
+      "ক) পুণ্ড্র",
+      "খ) তাম্রলিপ্ত",
+      "গ) গৌড়",
+      "ঘ) হরিকেল"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৫১. অধ্যাদেশ প্রণয়ন ও জারি করতে পারেন কে?",
+    "options": [
+      "ক) প্রধানমন্ত্রী",
+      "খ) স্পিকার",
+      "গ) প্রধান বিচারপতি",
+      "ঘ) রাষ্ট্রপতি"
+    ],
+    "correct_option": "ঘ"
+  },
+  {
+    "question_text": "৫২. বাংলাদেশের কোন নৃ-গোষ্ঠীর উৎসব ‘সাংগ্রাই’?",
+    "options": [
+      "ক) ত্রিপুরা",
+      "খ) মারমা",
+      "গ) চাকমা",
+      "ঘ) সাঁওতাল"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৫৩. আম গবেষণা কেন্দ্র কোথায়?",
+    "options": [
+      "ক) রংপুর",
+      "খ) রাজশাহী",
+      "গ) চাঁপাইনবাবগঞ্জ",
+      "ঘ) নাটোর"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৫৪. ‘বোল নৃত্য’ বাংলাদেশের কোন অঞ্চলের নৃত্য?",
+    "options": [
+      "ক) রংপুর",
+      "খ) কুমিল্লা",
+      "গ) সিলেট",
+      "ঘ) যশোর"
+    ],
+    "correct_option": "ঘ"
+  },
+  {
+    "question_text": "৫৫. 'মহাস্থানগড়' কোন নদীর তীরে অবস্থিত?",
+    "options": [
+      "ক. করতোয়া",
+      "খ. গঙ্গা",
+      "গ. ব্রহ্মপুত্র",
+      "ঘ. মহানন্দা"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৫৬. ইন্টারনেট ব্যবহারে শীর্ষ দেশ-",
+    "options": [
+      "ক. বাংলাদেশ",
+      "খ. ভারত",
+      "গ. চীন",
+      "ঘ. যুক্তরাষ্ট্র"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৫৭. জাইকা (JICA) কোন দেশের সংস্থা?",
+    "options": [
+      "ক. চীন",
+      "খ. জাপান",
+      "গ. দক্ষিণ কোরিয়া",
+      "ঘ. জার্মানি"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৫৮. কোন দেশটি দুই মহাদেশে অবস্থিত?",
+    "options": [
+      "ক. গ্রিস",
+      "খ. মিশর",
+      "গ. চীন",
+      "ঘ. তুরস্ক"
+    ],
+    "correct_option": "ঘ"
+  },
+  {
+    "question_text": "৫৯. নিচের কোনটি স্ক্যান্ডিনেভিয়ান দেশ নয়?",
+    "options": [
+      "ক. সুইডেন",
+      "খ. হল্যান্ড",
+      "গ. নরওয়ে",
+      "ঘ. ডেনমার্ক"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৬০. সতীদাহ প্রথা বিলুপ্ত হয় কার উদ্যোগে?",
+    "options": [
+      "ক. রাজা রামমোহন রায়",
+      "খ. ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "গ. বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "ঘ. রবীন্দ্রনাথ ঠাকুর"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৬১. সন্ধি বিচ্ছেদ করুন: সংযম",
+    "options": [
+      "ক. সং+যম",
+      "খ. সৎ+যম",
+      "গ. সম+যম",
+      "ঘ. সম্+যম"
+    ],
+    "correct_option": "ঘ"
+  },
+  {
+    "question_text": "৬২. কোন বানানটি শুদ্ধ?",
+    "options": [
+      "ক. মুমূর্ষু",
+      "খ. মুমূক্ষু",
+      "গ. মুমূক্ষূ",
+      "ঘ. মুমুক্ষু"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৬৩. 'গণপ্রজাতন্ত্রী' কোন শ্রেণির শব্দ?",
+    "options": [
+      "ক. দেশি",
+      "খ. বিদেশি",
+      "গ. তৎসম",
+      "ঘ. তদ্ভব"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৬৪. কোনটি মৌলিক শব্দ",
+    "options": [
+      "ক. ঢাকা",
+      "খ. ফুল",
+      "গ. ডিঙা",
+      "ঘ. তৈল"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৬৫. 'জাঙ্গাল' এর প্রতিশব্দ কোনটি?",
+    "options": [
+      "ক. স্তূপ",
+      "খ. আবর্জনা",
+      "গ. বাঁধ",
+      "ঘ. জঙ্গল"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৬৬. 'মূর্ত' এর বিপরীত শব্দ কোনটি?",
+    "options": [
+      "ক. আমূর্ত",
+      "খ. বিমূর্ত",
+      "গ. প্রমূর্ত",
+      "ঘ. স্বতঃমূর্ত"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৬৭. 'বিদ্বান' এর সঠিক স্ত্রী বাচক শব্দ কোনটি?",
+    "options": [
+      "ক. বিদুষী",
+      "খ. বিদুর্ষী",
+      "গ. বিদ্বানী",
+      "ঘ. বিদুষিণী"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৬৮. 'গণ্যমান্য' কোন সমাস?",
+    "options": [
+      "ক. দ্বন্দ্ব",
+      "খ. নিত্য",
+      "গ. কর্মধারয়",
+      "ঘ. অব্যয়ীভাব"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৬৯. 'সব ঝিনুকে মুক্তা মেলে না'- এই বাক্যে 'ঝিনুকে' শব্দটি কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "ক. অপাদানে ৭মী",
+      "খ. অধিকরণে ৭মী",
+      "গ. কর্তায় ৭মী",
+      "ঘ. কর্মে ৭মী"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৭০. 'ফল পাকলে যে গাছ মরে যায়' তাকে এক কথায় বলে-",
+    "options": [
+      "ক. ঔষধি",
+      "খ. ওষধী",
+      "গ. ওষধি",
+      "ঘ. কোনটিই নয়"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৭১. 'গড্ডলিকা প্রবাহ' বাগধারায় 'গড্ডল' শব্দের অর্থ কী?",
+    "options": [
+      "ক. স্রোত",
+      "খ. ভেড়া",
+      "গ. উট",
+      "ঘ. গাধা"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৭২. 'নগর পুড়িলে দেবালয় কি এড়ায়?' কোন কাব্যের পঙ্ক্তি?",
+    "options": [
+      "ক. পদ্মাবতী কাব্যের",
+      "খ. শ্রীকৃষ্ণকীর্তন কাব্যের",
+      "গ. মঙ্গল কাব্যের",
+      "ঘ. চর্যাপদের"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৭৩. কাজী নজরুল ইসলাম তার কোন গ্রন্থটি রবীন্দ্রনাথ ঠাকুরকে উৎসর্গ করেছেন?",
+    "options": [
+      "ক. সঞ্চিতা",
+      "খ. সিন্ধু হিন্দোল",
+      "গ. যুগবাণী",
+      "ঘ. অগ্নিবীণা"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৭৪. পল্লীকবি জসীমউদ্দীনের উপন্যাস কোনটি?",
+    "options": [
+      "ক. পল্লীবধূ",
+      "খ. রাখালী",
+      "গ. বোবাকাহিনী",
+      "ঘ. পদ্মাপাড়"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "৭৫. 'সকালে উঠিয়া আমি মনে মনে বলি, সারাদিন আমি যেন ভাল হয়ে চলি'- এই চরণদ্বয়ের লেখক কে?",
+    "options": [
+      "ক. কৃষ্ণচন্দ্র মজুমদার",
+      "খ. মদনমোহন তর্কালঙ্কার",
+      "গ. কুসুমকুমারী দাশ",
+      "ঘ. কামিনী রায়"
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "৭৬. 'ঢাকের কাঠি' বাগধারার অর্থ কী?",
+    "options": [
+      "ক. মোসাহেব",
+      "খ. কপট ব্যক্তি",
+      "গ. হতভাগ্য",
+      "ঘ. নিষ্ঠুর ব্যক্তি"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৭৭. 'উজবুক' শব্দটি কোন ভাষা থেকে বাংলা ভাষায় এসেছে?",
+    "options": [
+      "ক. আরবি",
+      "খ. ফারসি",
+      "গ. পর্তুগিজ",
+      "ঘ. তুর্কি"
+    ],
+    "correct_option": "ঘ"
+  },
+  {
+    "question_text": "৭৮. দেশি শব্দ কোনটি?",
+    "options": [
+      "ক. ঢোল",
+      "খ. আনারস",
+      "গ. কষ্ট",
+      "ঘ. নামাজ"
+    ],
+    "correct_option": "ক"
+  },
+  {
+    "question_text": "৭৯. 'ভাত' কোন ধরনের শব্দ?",
+    "options": [
+      "ক. তৎসম",
+      "খ. তদ্ভব",
+      "গ. খাঁটি বাংলা",
+      "ঘ. বিদেশি"
+    ],
+    "correct_option": "খ/গ"
+  },
+  {
+    "question_text": "৮০. 'সাত সাগরের মাঝি' কাব্যগ্রন্থের লেখক কে?",
+    "options": [
+      "ক. কায়কোবাদ",
+      "খ. গোলাম মোস্তফা",
+      "গ. ফররুখ আহমদ",
+      "ঘ. বন্দে আলী মিয়া"
+    ],
+    "correct_option": "গ"
+  },
+  {
+    "question_text": "১৭. 'He calls me by my nickname.' Change the sentence into passive.",
+    "options": [
+      "ক. My nickname is called by him.",
+      "খ. I am called by him by my nickname.",
+      "গ. I call his nickname.",
+      "ঘ. I am called by my nickname."
+    ],
+    "correct_option": "খ"
+  },
+  {
+    "question_text": "২৬. একটি বাক্সের দৈর্ঘ্য ২ মিটার, প্রস্থ ১.৫ মিটার এবং উচ্চতা ১ মিটার। বাক্সটির আয়তন কত?",
+    "options": [
+      "ক. ২ ঘনমিটার",
+      "খ. ৩ ঘনমিটার",
+      "গ. ৪ ঘনমিটার",
+      "ঘ. ২.৫ ঘনমিটার"
+    ],
+    "correct_option": "খ"
   }
 ]
