@@ -1597,7 +1597,7 @@
       "গ. সংগীত",
       "ঘ. আড়ষ্ট"
     ],
-    "correct_option": "ক, খ"
+    "correct_option": "ক"
   },
   {
     "question_text": "৬০. কম্পিউটার কী - বোর্ডে কতটি ফাংশন key থাকে?",
@@ -7509,37 +7509,41 @@
     ],
     "correct_option": "খ"
   },
-  
-{"কারক ও বিভক্তি নির্ণয় করুন": "'অর্থই' অনর্থের মূল।", 
+  {
+    "কারক ও বিভক্তি নির্ণয় করুন": "'অর্থই' অনর্থের মূল।",
     "options": [],
     "correct_option": "কর্তৃকারকে শূন্য বিভক্তি"
-},
-{"কারক ও বিভক্তি নির্ণয় করুন": "'মাতাপিতার' সেবা কর।",
+  },
+  {
+    "কারক ও বিভক্তি নির্ণয় করুন": "'মাতাপিতার' সেবা কর।",
     "options": [],
     "correct_option": "কর্মকারকে ৬ষ্ঠী বিভক্তি"
-},
-
-{"কারক ও বিভক্তি নির্ণয় করুন": "বিকেল 'চারটায়' অফিস ছুটি হয়।",
+  },
+  {
+    "কারক ও বিভক্তি নির্ণয় করুন": "বিকেল 'চারটায়' অফিস ছুটি হয়।",
     "options": [],
     "correct_option": "অধিকরণে ৭মী বিভক্তি"
-},
-{"কারক ও বিভক্তি নির্ণয় করুন": "'তার' দেখা পাওয়া দুষ্কর।",
+  },
+  {
+    "কারক ও বিভক্তি নির্ণয় করুন": "'তার' দেখা পাওয়া দুষ্কর।",
     "options": [],
     "correct_option": "কর্মকারকে ৬ষ্ঠী বিভক্তি"
-},
-{ "কারক ও বিভক্তি নির্ণয় করুন": "লোকটি 'কানে' খাটো।",
+  },
+  {
+    "কারক ও বিভক্তি নির্ণয় করুন": "লোকটি 'কানে' খাটো।",
     "options": [],
     "correct_option": "করণ কারকে ৭মী বিভক্তি"
-},
-{"কারক ও বিভক্তি নির্ণয় করুন": "'দশে' মিলে করি কাজ।",
+  },
+  {
+    "কারক ও বিভক্তি নির্ণয় করুন": "'দশে' মিলে করি কাজ।",
     "options": [],
     "correct_option": "কর্তৃকারকে ৭মী"
-},
-{
+  },
+  {
     "question_text": "Transform the sentence as directed: He said, “Friends, goodbye.“ (Indirect)",
     "options": [],
     "correct_option": "He bade his friends goodbye."
-},
+  },
   {
     "question_text": "Transform the sentence as directed: The flower is very fine. (Exclamatory)",
     "options": [],
@@ -7560,139 +7564,116 @@
     "options": [],
     "correct_option": "He / she is no more."
   },
-{
+  {
     "question_text": "সন্ধি-বিচ্ছেদ করুন: দর্শনীয়",
     "options": [],
-    "correct_option": "দৃশ্ + অনীয়",
-    "explanation": ""
+    "correct_option": "দৃশ্ + অনীয়"
   },
   {
     "question_text": "সন্ধি-বিচ্ছেদ করুন: সঙ্কল্প",
     "options": [],
-    "correct_option": "সম্ + কল্প",
-    "explanation": ""
+    "correct_option": "সম্ + কল্প"
   },
   {
     "question_text": "সন্ধি-বিচ্ছেদ করুন: মৃত",
     "options": [],
-    "correct_option": "মৃচ্ + ত",
-    "explanation": ""
+    "correct_option": "মৃচ্ + ত"
   },
   {
     "question_text": "এককথায় প্রকাশ করুন: কথায় বর্ণনা করা যায় না যা",
     "options": [],
-    "correct_option": "অবর্ণনীয়",
-    "explanation": ""
+    "correct_option": "অবর্ণনীয়"
   },
   {
     "question_text": "শুদ্ধ বানান লিখুন: অধীনস্থ",
     "options": [],
-    "correct_option": "অধীন",
-    "explanation": ""
+    "correct_option": "অধীন"
   },
   {
     "question_text": "শুদ্ধ বানান লিখুন: এতদ্বারা",
     "options": [],
-    "correct_option": "এতদ্দ্বারা",
-    "explanation": ""
+    "correct_option": "এতদ্দ্বারা"
   },
   {
     "question_text": "বিপরীত শব্দ লিখুন: আত্মীয়",
     "options": [],
-    "correct_option": "অনাত্মীয়",
-    "explanation": ""
+    "correct_option": "অনাত্মীয়"
   },
   {
     "question_text": "Fill in the gap: Metre is ... unit of length.",
     "options": [],
-    "correct_option": "a",
-    "explanation": ""
+    "correct_option": "a"
   },
   {
     "question_text": "Fill in the gap: He spends ... hour daily.",
     "options": [],
-    "correct_option": "an",
-    "explanation": ""
+    "correct_option": "an"
   },
   {
     "question_text": "Fill in the gap: Harun can play ... flute.",
     "options": [],
-    "correct_option": "the",
-    "explanation": ""
+    "correct_option": "the"
   },
   {
     "question_text": "Fill in the gap: Never tell ... lie.",
     "options": [],
-    "correct_option": "a",
-    "explanation": ""
+    "correct_option": "a"
   },
   {
     "question_text": "Fill in the gap: He has no ABC ... law.",
     "options": [],
-    "correct_option": "of",
-    "explanation": ""
+    "correct_option": "of"
   },
   {
     "question_text": "Fill in the gap: He died ... hunger.",
     "options": [],
-    "correct_option": "of",
-    "explanation": ""
+    "correct_option": "of"
   },
   {
     "question_text": "Fill in the gap: God is good ... me.",
     "options": [],
-    "correct_option": "to",
-    "explanation": ""
+    "correct_option": "to"
   },
   {
     "question_text": "Fill in the gap: I shall do it ... pleasure.",
     "options": [],
-    "correct_option": "with",
-    "explanation": ""
+    "correct_option": "with"
   },
   {
     "question_text": "Correct the spelling: Voise",
     "options": [],
-    "correct_option": "Voice",
-    "explanation": ""
+    "correct_option": "Voice"
   },
   {
     "question_text": "Correct the spelling: Busines",
     "options": [],
-    "correct_option": "Business",
-    "explanation": ""
+    "correct_option": "Business"
   },
   {
     "question_text": "Correct the spelling: Neumonia",
     "options": [],
-    "correct_option": "Pneumonia",
-    "explanation": ""
+    "correct_option": "Pneumonia"
   },
   {
     "question_text": "Correct the spelling: Receive",
     "options": [],
-    "correct_option": "Receive",
-    "explanation": ""
+    "correct_option": "Receive"
   },
   {
     "question_text": "Correct the spelling: Belief",
     "options": [],
-    "correct_option": "Belief",
-    "explanation": ""
+    "correct_option": "Belief"
   },
   {
     "question_text": "Correct the spelling: Flowar",
     "options": [],
-    "correct_option": "Flower",
-    "explanation": ""
+    "correct_option": "Flower"
   },
   {
     "question_text": "Transform the sentence as directed: Tell me his address. (Complex)",
     "options": [],
-    "correct_option": "Tell me where his address is",
-    "explanation": ""
+    "correct_option": "Tell me where his address is"
   },
-
   {
     "question_text": "Translate into English: ট্রেনটি উত্তরা যাবে।",
     "options": [],
@@ -7773,7 +7754,6 @@
     "options": [],
     "correct_option": "Annual Development Programme."
   },
-
   {
     "question_text": "মক্কা চুক্তি কত তারিখে স্বাক্ষরিত হয়?",
     "options": [],
